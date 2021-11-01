@@ -5,10 +5,9 @@ Problem Statement
 Throttle is an important component of refrigeration cycle wherein it allows a means of reducing
 the temperature of working fluid. For the present problem, consider a n-butane stream at
 pressure 𝑃! and temperature 𝑇! that is throttled to a final pressure 𝑃". The temperature (𝑇") or
-the quality (vapor mole fraction: 𝑥"
-# ≡ 𝑥") of the exit stream are unknown.
-Model the throttle process as a steady-state, steady-flow adiabatic operation with no moving
-parts. Further, you can ignore kinetic energy and potential energy changes for the flow streams.
+the quality (vapor mole fraction: 𝑥" ≡ 𝑥") of the exit stream are unknown.
+#Model the throttle process as a steady-state, steady-flow adiabatic operation with no moving parts. 
+Further, you can ignore kinetic energy and potential energy changes for the flow streams.
 With these assumptions, the general energy balance simplifies to: Δ𝐻!" = 0.
 Task
 Develop a code in language/library of your choice (C, Matlab, Python, etc.) to answer question
